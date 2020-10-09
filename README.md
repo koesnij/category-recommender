@@ -1,5 +1,5 @@
-# category-recommender
-category recommendation api with Flask & fastText
+# fastText를 이용한 중고 판매 / 대여 게시글 카테고리 추천
+Category Recommendation API with Flask & fastText
 
 
 1. git clone
